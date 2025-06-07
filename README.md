@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![image](https://github.com/user-attachments/assets/556ce11b-0b8e-4095-9d44-a1825b2172f6)
+![image](https://github.com/user-attachments/assets/07a75d43-049f-4102-a414-b2b71dcc950c)
+
 
 <!--
 **kn0x0x/kn0x0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
