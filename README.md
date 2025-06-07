@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://pixinsight.com/forum/index.php?attachments/22029/" width="500" height="400" alt="hehe">
+<img src="https://pixinsight.com/forum/index.php?attachments/22029/" width="800" height="400" alt="hehe">
 
 
 
