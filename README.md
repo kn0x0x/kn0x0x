@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, how to fix it? 👋
 
 <img src="https://pixinsight.com/forum/index.php?attachments/22029/" width="800" height="400" alt="hehe">
 
