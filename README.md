@@ -1,6 +1,7 @@
 ## Hi there, how to fix it? 👋
 
-<img src="https://pixinsight.com/forum/index.php?attachments/22029/" width="800" height="400" alt="hehe">
+![image](https://github.com/user-attachments/assets/44703310-52e7-45b5-965c-6bed3acd5922)
+
 
 
 <!--
