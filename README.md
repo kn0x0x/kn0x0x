@@ -1,6 +1,6 @@
 ## Hi there, how to fix it? 👋
 
-![image](https://github.com/user-attachments/assets/44703310-52e7-45b5-965c-6bed3acd5922)
+<img src="https://github.com/user-attachments/assets/44703310-52e7-45b5-965c-6bed3acd5922" width="400" alt="hehee">
 
 
 
